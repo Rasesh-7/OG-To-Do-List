@@ -16,10 +16,6 @@ A simple Android To-Do List app built using Kotlin.
 * Room Database
 * MVVM Architecture
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
 ## ▶️ How to Run
 
 1. Clone the repo
